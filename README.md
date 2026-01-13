@@ -9,7 +9,7 @@ A powerful, feature-rich real-time code editor designed for developers who love 
 
 ## 🧑‍💻 Developers  
 
-**Frontend**: *Sachin Kumar*, & *Aditya Bhatt*
+**Frontend**: *Sachin Kumar* & *Aditya Bhatt*
 
 **Backend**: *Lovekush*
 
